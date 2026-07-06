@@ -171,7 +171,7 @@ graph TD
 **Backend, Frontend & Orchestration**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,tailwind&theme=dark" />
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Database & Cloud**
@@ -211,7 +211,7 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BURLAGADDA-AJAY-HARI-KRISHNA-221FA04286&theme=tokyonight&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
+<img src="https://streak-stats.demolab.com/?user=BURLAGADDA-AJAY-HARI-KRISHNA-221FA04286&theme=tokyonight&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BURLAGADDA-AJAY-HARI-KRISHNA-221FA04286&theme=tokyo-night&hide_border=true&area=true" />
 
@@ -223,7 +223,11 @@ flowchart LR
 
 ## 🐍 Contribution Snake (animated)
 
-Add this to a workflow file at `.github/workflows/snake.yml` in your profile repo, then it'll generate a live animated snake eating your contribution graph:
+> ⚠️ **Setup required — this doesn't work just by pasting the markdown below.**
+> 1. Create this exact file in your **profile repo** (the one named `BURLAGADDA-AJAY-HARI-KRISHNA-221FA04286/BURLAGADDA-AJAY-HARI-KRISHNA-221FA04286`) at path `.github/workflows/snake.yml`.
+> 2. Go to that repo's **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions."**
+> 3. Go to the **Actions** tab and manually run the workflow once (`Run workflow` button) — the `output` branch and SVG only get created after a successful run.
+> 4. Only after that will the embed below actually render.
 
 ```yaml
 name: Generate Snake
